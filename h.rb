@@ -6,7 +6,7 @@ class SimpleNumber
   end
 
   def add(y)
-    @x + y
+    @x +   y
   end
 
   def multiply(y)
